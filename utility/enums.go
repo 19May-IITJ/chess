@@ -13,6 +13,9 @@ const (
 
 // Define constants for piece colors
 const (
-	White int = iota
+	Empty int = iota
+	White
 	Black
 )
+
+
